@@ -1,7 +1,7 @@
 # 1c-gruppo
 
 # Configura l'upstream (se non esiste già)
-git remote set-url upstream https://github.com/stefanolazzari/1c-gruppo.git 2>/dev/null || git remote add upstream https://github.com/stefanolazzari/1c-gruppo.git
+git remote set-url upstream https://github.com/1c-2024-25/1c-gruppo.git 2>/dev/null || git remote add upstream https://github.com/1c-2024-25/1c-gruppo.git
 
 # Recupera gli aggiornamenti dal repository originale
 git fetch upstream
